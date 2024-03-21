@@ -1,0 +1,33 @@
+{
+  "id": "72fb19c7-a541-4a79-8a66-3e8f2c1d1fd8",
+  "name": "Accuweather",
+  "publisher": "javi.salamanca",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "Retrieves weather information.",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "application": "22.4.59114.59535",
+  "platform": "22.0.59520.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50110
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "12.0",
+  "features": [
+    "NoImplicitWith"
+  ],
+  "target": "OnPrem"
+}
